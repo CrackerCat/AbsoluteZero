@@ -1,8 +1,6 @@
 # AbsoluteZero
 Python APT Backdoor-Botnet / Python MuddyWater Recreation
 
-#AbsoluteZero
-
 This project is a Python APT backdoor, optimized for Red Team Post Exploitation Tool, it can generate binary payload or pure python source. The final stub uses polymorphic encryption to give a first obfuscation layer to itself.
 Deployment
 
